@@ -3,11 +3,9 @@
 <!--
 **ydeliorman/ydeliorman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-📈 **My GitHub Stats:**
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ydeliorman&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydeliorman&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ydeliorman)](https://github.com/anuraghazra/github-readme-stats)
+</details>
